@@ -1,0 +1,1009 @@
+北京市@Pekino
+广东省@provinco Guangdong
+山东省@Shandong
+江苏省@Jiangsu Provinco
+河南省@Henan-provinco
+上海市@Ŝanhajo
+河北省@Hebei
+浙江省@Zhejiang
+香港特别行政区@Hong Kong SAR
+陕西省@Shaanxi Provinco
+湖南省@Hunan Provinco
+重庆市@Chongqing City
+福建省@Fujian-provinco
+天津市@Tjanĝino
+云南省@Yunnan-provinco
+四川省@Sichuan
+广西壮族自治区@Guangxi Zhuang Aŭtonoma Regiono
+安徽省@Anhui Provinco
+海南省@Hajnano
+江西省@Jiangxi
+湖北省@Hubei Provinco
+山西省@Shanxi Provinco
+辽宁省@Liaoning Provinco
+台湾省@Tajvano Provinco
+黑龙江@Heilongjiang
+内蒙古自治区@Interna Mongolio Aŭtonoma Regiono
+澳门特别行政区@Macao Special Administrative Region
+贵州省@Guizhou Provinco
+甘肃省@provinco Gansu
+青海省@Qinghai Provinco
+新疆维吾尔自治区@Xinjiang Uygur Autonomous Region
+西藏区@Tibeto regiono
+吉林省@Jilin Provinco
+宁夏回族自治区@Ningxia Hui Aŭtonoma Regiono
+朝阳区@Chaoyang Distrikto
+海淀区@Haidian Distrikto
+通州区@Tongzhou Distrikto
+房山区@Fangshan Distrikto
+丰台区@Fengtai Distrikto
+昌平区@Changping Distrikto
+大兴区@Daxing Distrikto
+顺义区@Shunyi Distrikto
+西城区@Xicheng Distrikto
+延庆县@Yanqing County
+石景山区@Shijingshan Distrikto
+宣武区@Xuanwu Distrikto
+怀柔区@Huairou Distrikto
+崇文区@Chongwen
+密云县@Miyun County
+东城区@Dongcheng Distrikto
+门头沟区@Mentougou
+平谷区@Pinggu Distrikto
+广东省@provinco Guangdong
+东莞市@Dongguan City
+广州市@Kantono
+中山市@Zhongshan City
+深圳市@Shenzhen
+惠州市@Huizhou City
+江门市@Jiangmen
+珠海市@Zhuhai City
+汕头市@Shantou
+佛山市@Foshan City
+湛江市@Zhanjiang
+河源市@Heyuan Urbo
+肇庆市@Zhaoqing City
+潮州市@Chaozhou City
+清远市@Qingyuan
+韶关市@Shaoguan Urbo
+揭阳市@Jieyang
+阳江市@Yangjiang
+云浮市@Yunfu
+茂名市@Maoming City
+梅州市@Meizhou
+汕尾市@Shanwei City
+山东省@Shandong
+济南市@Jinan City
+青岛市@Qingdao
+临沂市@Linyi City
+济宁市@Jining City
+菏泽市@Heze Urbo
+烟台市@Yantai City
+泰安市@Tai'an Urbo
+淄博市@Zibo Urbo
+潍坊市@Weifang City
+日照市@Rizhao Urbo
+威海市@Weihai City
+滨州市@Binzhou
+东营市@Dongying City
+聊城市@Liaocheng
+德州市@Dezhou
+莱芜市@Laiwu
+枣庄市@Zaozhuang Urbo
+江苏省@Jiangsu Provinco
+苏州市@Suzhou City
+徐州市@Xuzhou
+盐城市@Yancheng
+无锡市@Wuxi City
+南京市@Nankingo
+南通市@Nantong
+连云港市@Lianyungang
+常州市@Changzhou
+扬州市@Yangzhou
+镇江市@Zhenjiang
+淮安市@Huaian
+泰州市@Taizhou
+宿迁市@Suqian
+河南省@Henan-provinco
+郑州市@Zhengzhou Urbo
+南阳市@Nanyang City
+新乡市@Xinxiang
+安阳市@Anyang Urbo
+洛阳市@Luoyang City
+信阳市@Xinyang Urbo
+平顶山市@Pingdingshan
+周口市@Zhoukou Urbo
+商丘市@Shangqiu Urbo
+开封市@Kaifeng
+焦作市@Jiaozuo Urbo
+驻马店市@Zhumadian Urbo
+濮阳市@Puyang Urbo
+三门峡市@Sanmenxia City
+漯河市@Luohe
+许昌市@Xuchang Urbo
+鹤壁市@Hebi Urbo
+济源市@Jiyuan Urbo
+上海市@Ŝanhajo
+松江区@Songjiang Distrikto
+宝山区@Baoshan Distrikto
+金山区@Jinshan Distrikto
+嘉定区@Jiading Distrikto
+南汇区@Nanhui Distrikto
+青浦区@Qingpu Distrikto
+浦东新区@Pudong Nova Areo
+奉贤区@Fengxian Distrikto
+闵行区@Minhang Distrikto
+徐汇区@Xuhui Distrikto
+静安区@Jing'an Distrikto
+黄浦区@Huangpu Distrikto
+普陀区@Putuo Distrikto
+杨浦区@Yangpu Distrikto
+虹口区@Hongkou Distrikto
+闸北区@Zhabei Distrikto
+长宁区@Changning Distrikto
+崇明县@Chongming County
+卢湾区@Luwan Distrikto
+河北省@Hebei
+石家庄市@Shijiazhuang City
+唐山市@Tangshan City
+保定市@Baoding
+邯郸市@Handan City
+邢台市@Xingtai Urbo
+河北区@Hebei Distrikto
+沧州市@Cangzhou City
+秦皇岛市@Qinhuangdao
+张家口市@Zhangjiakou City
+衡水市@Hengshui City
+廊坊市@Langfang City
+承德市@Chengde Urbo
+浙江省@Zhejiang
+温州市@Wenzhou
+宁波市@Ningbo City
+杭州市@Hangzhou
+台州市@Taizhou
+嘉兴市@Jiaxing
+金华市@Jinhua City
+湖州市@Huzhou City
+绍兴市@Shaoxing Urbo
+舟山市@Zhoushan City
+丽水市@Lishui
+衢州市@Quzhou
+香港特别行政区@Hong Kong SAR
+陕西省@Shaanxi Provinco
+西安市@Ŝjiano
+咸阳市@Xianyang City
+宝鸡市@Baoji City
+汉中市@Hanzhong City
+渭南市@Weinan Urbo
+安康市@Ankang
+榆林市@Yulin City
+商洛市@Shangluo Urbo
+延安市@Yan'an Urbo
+铜川市@Tongchuan
+湖南省@Hunan Provinco
+长沙市@Changsha Urbo
+邵阳市@Shaoyang Urbo
+常德市@Changde Urbo
+衡阳市@Hengyang Urbo
+株洲市@Zhuzhou City
+湘潭市@Xiangtan City
+永州市@Yongzhou
+岳阳市@Yueyang City
+怀化市@Huaihua City
+郴州市@Chenzhou Urbo
+娄底市@Loudi
+益阳市@Yiyang City
+张家界市@Zhangjiajie
+湘西州@Xiangxi
+重庆市@Chongqing City
+江北区@Jiangbei Distrikto
+渝北区@Yubei
+沙坪坝区@Shapingba Distrikto
+九龙坡区@Jiulongpo
+万州区@Wanzhou Distrikto
+永川市@Yongchuan Urbo
+南岸区@Suda Banko areon
+酉阳县@Youyang County
+北碚区@Beibei Distrikto
+涪陵区@Fuling Distrikto
+秀山县@Xiushan County
+巴南区@Banan Distrikto
+渝中区@Yuzhong
+石柱县@Shizhu
+忠县@Zhong County
+合川市@Hechuan
+大渡口区@Dadukou
+开县@Kaixian
+长寿区@Changshou Distrikto
+荣昌县@Rongchang
+云阳县@Yunyang County
+梁平县@Liangping County
+潼南县@Tongnan County
+江津市@Jiangjin
+彭水县@Pengshui County
+璧山县@Bishan Distrikto
+綦江县@Qijiang County
+大足县@Dazu County
+黔江区@Qianjiang Distrikto
+巫溪县@Wuxi County
+巫山县@Wushan County
+垫江县@Dianjiang County
+丰都县@Fengdu County
+武隆县@Wulong County
+万盛区@Wansheng Distrikto
+铜梁县@Tongliang County
+南川市@Nanchuan Urbo
+奉节县@Fengjie County
+双桥区@Shuangqiao Distrikto
+城口县@Urbo mi County
+福建省@Fujian-provinco
+漳州市@Zhangzhou Urbo
+泉州市@Quanzhou
+厦门市@Xiamen
+福州市@Fuzhou
+莆田市@Putian City
+宁德市@Ningde Urbo
+三明市@Sanming Urbo
+南平市@Nanping City
+龙岩市@Longyan Urbo
+天津市@Tjanĝino
+和平区@Heping Distrikto
+北辰区@Beichen Distrikto
+河北区@Hebei Distrikto
+河西区@Hexi Distrikto
+西青区@Xiqing Distrikto
+津南区@Jinnan Distrikto
+东丽区@Dongli Distrikto
+武清区@Wuqing
+宝坻区@Baodi
+红桥区@Hongqiao Distrikto
+大港区@Dagang
+汉沽区@Hangu
+静海县@Jinghai County
+宁河县@Ninghe
+塘沽区@Tanggu Distrikto
+蓟县@Jixian
+南开区@Nankai Distrikto
+河东区@Hedong Distrikto
+云南省@Yunnan-provinco
+昆明市@Kunming
+红河州@Honghe Gubernio
+大理州@Dali Prefecture
+文山州@Wenshan
+德宏州@Dehong
+曲靖市@Qujing City
+昭通市@Zhaotong Urbo
+楚雄州@Chuxiong
+保山市@Baoshan City
+玉溪市@Yuxi City
+丽江地区@Lijiang Prefecture
+临沧地区@Lincang
+思茅地区@Simao Gubernio
+西双版纳州@Xishuangbanna
+怒江州@Nujiang Prefecture
+迪庆州@Diqing
+四川省@Sichuan
+成都市@Ĉengduo
+绵阳市@Mianyang Urbo
+广元市@Guangyuan
+达州市@Dazhou
+南充市@Nanchong Urbo
+德阳市@Deyang
+广安市@Guang'an Urbo
+阿坝州@Aba
+巴中市@Bazhong
+遂宁市@Suining
+内江市@Neijiang
+凉山州@Liangshan
+攀枝花市@Panzhihua Urbo
+乐山市@Leshan
+自贡市@Zigong City
+泸州市@Luzhou
+雅安市@Ya'an Urbo
+宜宾市@Yibin Urbo
+资阳市@Ziyang
+眉山市@Meishan Urbo
+甘孜州@Ganzi
+广西壮族自治区@Guangxi Zhuang Aŭtonoma Regiono
+贵港市@Guigang
+玉林市@Yulin
+北海市@Beihai City
+南宁市@Nanning
+柳州市@Liuzhou
+桂林市@Guilin
+梧州市@Wuzhou
+钦州市@Qinzhou
+来宾市@Laibin
+河池市@Hechi City
+百色市@Baise City
+贺州市@Hezhou
+崇左市@Chongzuo
+防城港市@Fangchenggang Urbo
+安徽省@Anhui Provinco
+芜湖市@Wuhu
+合肥市@Hefei
+六安市@Lu'an Urbo
+宿州市@Suzhou City
+阜阳市@Fuyang City
+安庆市@Anqing City
+马鞍山市@Ma'anshan Urbo
+蚌埠市@Bengbu City
+淮北市@Huaibei Urbo
+淮南市@Huainan City
+宣城市@Xuancheng Urbo
+黄山市@Huangshan City
+铜陵市@Tongling City
+亳州市@Bozhou City
+池州市@Chizhou
+巢湖市@Chaohu
+滁州市@Chuzhou
+海南省@Hajnano
+三亚市@Sanya Urbo
+海口市@Haikou City
+琼海市@Qionghai
+文昌市@Wenchang Urbo
+东方市@Oriental Urbo
+昌江县@Changjiang County
+陵水县@Lingshui County
+乐东县@Ledong
+五指山市@Wuzhishan
+保亭县@Baoting County
+澄迈县@Chengmai County
+万宁市@Wanning Urbo
+儋州市@Danzhou
+临高县@Lingao County
+白沙县@baisha County
+定安县@Ding'an
+琼中县@Qiongzhong County
+屯昌县@Tunchang County
+江西省@Jiangxi
+南昌市@Nanchang
+赣州市@Ganzhou
+上饶市@Shangrao Urbo
+吉安市@Ji'an City
+九江市@Jiujiang Urbo
+新余市@Xinyu Urbo
+抚州市@Fuzhou City
+宜春市@Yichun Urbo
+景德镇市@Jingdezhen Urbo
+萍乡市@Pingxiang Urbo
+鹰潭市@Yingtan City
+湖北省@Hubei Provinco
+武汉市@Wuhan
+宜昌市@Yichang City
+襄樊市@Xiangfan Urbo
+荆州市@Jingzhou Urbo
+恩施州@Enshi
+孝感市@Xiaogan Urbo
+黄冈市@Huanggang Urbo
+十堰市@Shiyan Urbo
+咸宁市@Xianning Urbo
+黄石市@Huangshi
+仙桃市@Bristol City
+随州市@Suizhou
+天门市@Tianmen
+荆门市@Jingmen City
+潜江市@Qianjiang City
+鄂州市@Ezhou
+神农架林区@Shennongjia
+山西省@Shanxi Provinco
+太原市@Taiyuan
+大同市@Datong
+运城市@Yuncheng
+长治市@Changzhi
+晋城市@Jincheng
+忻州市@Xinzhou
+临汾市@Linfen City
+吕梁市@Luliang Urbo
+晋中市@Jinzhong Urbo
+阳泉市@Yangquan Urbo
+朔州市@Shuozhou Urbo
+辽宁省@Liaoning Provinco
+大连市@Dalian City
+沈阳市@Shenyang Urbo
+丹东市@Dandong City
+辽阳市@Liaoyang
+葫芦岛市@Huludao Urbo
+锦州市@Jinzhou City
+朝阳市@Chaoyang City
+营口市@Yingkou City
+鞍山市@Anshan City
+抚顺市@Fushun
+阜新市@Fuxin
+本溪市@Benxi City
+盘锦市@Panjin City
+铁岭市@Tieling City
+台湾省@Tajvano Provinco
+台北市@Taipei City
+高雄市@Kaohsiung City
+台中市@Taichung City
+新竹市@Hsinchu City
+基隆市@Keelung
+台南市@Tainan City
+嘉义市@Chiayi City
+黑龙江@Heilongjiang
+齐齐哈尔市@Qiqihar City
+哈尔滨市@Harbin
+大庆市@Daqing City
+佳木斯市@Jiamusi City
+双鸭山市@Shuangyashan City
+牡丹江市@Mudanjiang City
+鸡西市@Jixi City
+黑河市@Heihe Urbo
+绥化市@Suihua
+鹤岗市@Hegang
+伊春市@Yichun Urbo
+大兴安岭地区@Daxinganling regiono
+七台河市@Qitaihe
+内蒙古自治区@Interna Mongolio Aŭtonoma Regiono
+赤峰市@Chifeng City
+包头市@Baotou City
+通辽市@Tongliao
+呼和浩特市@Hohhot
+乌海市@Wuhai
+鄂尔多斯市@Ordos City
+呼伦贝尔市@Hulunbeir
+兴安盟@Hing'an
+巴彦淖尔盟@Bayannaoer
+乌兰察布盟@Wulanchabu
+锡林郭勒盟@Xilin Gol Ligo
+阿拉善盟@Alxa Ligo
+澳门特别行政区@Macao Special Administrative Region
+贵州省@Guizhou Provinco
+贵阳市@Guiyang
+黔东南州@Qiandongnan
+黔南州@Qiannan
+遵义市@Zunyi City
+黔西南州@Qianxinan
+毕节地区@Bijie Gubernio
+铜仁地区@Tongren Prefecture
+安顺市@Anshun City
+六盘水市@Liupanshui Urbo
+甘肃省@provinco Gansu
+兰州市@Lanzhou
+天水市@Tianshui City
+庆阳市@Qingyang Urbo
+武威市@Wuwei Urbo
+酒泉市@Jiuquan City
+张掖市@Zhangye City
+陇南地区@Longnan areon
+白银市@Silver City
+定西地区@Dingxi Gubernio
+平凉市@Pingliang Urbo
+嘉峪关市@Jiayuguan Urbo
+临夏回族自治州@Linxia Hui Autonomous Prefecture
+金昌市@Jinchang
+甘南州@Gannan Prefecture
+青海省@Qinghai Provinco
+西宁市@Xining
+海西州@Haixi
+海东地区@Haidong Prefecture
+海北州@Haibei
+果洛州@Golog gubernio
+玉树州@Yushu gubernio
+黄南藏族自治州@Huangnan Tibeta Aŭtonoma Gubernio
+新疆维吾尔自治区@Xinjiang Uygur Autonomous Region
+乌鲁木齐市@Urumqi
+伊犁州@Yili
+昌吉州@Changji
+石河子市@Shihezi City
+哈密地区@Hami
+阿克苏地区@Aksu Prefecture
+巴音郭楞州@Bayinguoleng ŝtato
+喀什地区@Kashi Gubernio
+塔城地区@Tacheng
+克拉玛依市@Karamay
+和田地区@Hotan Prefecture
+阿勒泰州@Al Taizhou
+吐鲁番地区@Turpan areon
+阿拉尔市@Alar Urbo
+博尔塔拉州@Boertala ŝtato
+五家渠市@Wujiaqu
+克孜勒苏州@Kezilesu ŝtato
+图木舒克市@Tumxuk
+西藏区@Tibeto regiono
+拉萨市@Lasao
+山南地区@Shannan Prefecture
+林芝地区@Nyingchi
+日喀则地区@Xigaze
+阿里地区@Ali areon
+昌都地区@Qamdo
+那曲地区@Nagqu
+吉林省@Jilin Provinco
+吉林市@Jilin City
+长春市@Changchun City
+白山市@Baishan City
+白城市@Blanka urbo
+延边州@Yanbian
+松原市@Songyuan Urbo
+辽源市@Liaoyuan-Urbo
+通化市@Tonghua Urbo
+四平市@Siping City
+北京@Pekino
+朝阳区@Distrikto Chaoyang
+海淀区@Distrikto Haidian
+通州区@Tongzhou Distrikto
+房山区@Fangshan Distrikto
+丰台区@Fengtai Distrikto
+昌平区@Distrikto Changping
+大兴区@Daxing Distrikto
+顺义区@Distrikto Shunyi
+西城区@Distrikto Xicheng
+延庆县@Yanqing-gubernio
+石景山区@Shijingshan Distrikto
+宣武区@Distrikto Xuanwu
+怀柔区@Huairou Distrikto
+崇文区@Distrikto Chongwen
+密云县@Miyun County
+东城区@Dongcheng Distrikto
+门头沟区@Mentougou
+平谷区@Pinggu Distrikto
+广东省@provinco Guangdong
+东莞@Dongguan
+广州@Guangzhou
+中山@Zhongshan
+深圳@Shenzhen
+惠州@Huizhou
+江门@Jiangmen
+珠海@Zhuhai
+汕头@Shantou
+佛山@Foshan
+湛江@Zhanjiang
+河源@Heyuan
+肇庆@Zhaoqing
+潮州@Chaozhou
+清远@Qingyuan
+韶关@Shaoguan
+揭阳@Jieyang
+阳江@Yangjiang
+云浮@Yunfu
+茂名@Maoming
+梅州@Meizhou
+汕尾市@Shanwei City
+山东省@Shandong
+济南@Jinan
+青岛@Qingdao
+临沂@Linyi
+济宁@Manĝado
+菏泽@Heze
+烟台@Yantai
+泰安@Taian
+淄博@Zibo
+潍坊@Weifang
+日照@Sunbrilo
+威海@Weihai
+滨州@Binzhou
+东营@Dongying
+聊城@Liaocheng
+德州@Teksaso
+莱芜@Laiwu
+枣庄市@Zaozhuang Urbo
+江苏省@Jiangsu Provinco
+苏州@Suzhou
+徐州@Xuzhou
+盐城@Yancheng
+无锡@Wuxi
+南京@Nankino
+南通@Nantong
+连云港@Lianyungang
+常州@Changzhou
+扬州@Yangzhou
+镇江@Zhenjiang
+淮安@Huaian
+泰州@Taizhou
+宿迁市@Suqian Urbo
+河南省@Henan Provinco
+郑州@Zhengzhou
+南阳@Nanyang
+新乡@Xinxiang
+安阳@Anyang
+洛阳@Luoyang
+信阳@Xinyang
+平顶山@Pingdingshan
+周口@Zhoukou
+商丘@Shangqiu
+开封@Kaifeng
+焦作@Jiaozuo
+驻马店@Zhumadian
+濮阳@Puyang
+三门峡@Sanmenxia
+漯河@Luohe
+许昌@Xu Chang
+鹤壁@Hebi
+济源市@Jiyuan Urbo
+上海市@Ŝanhajo
+松江区@Distrikto Songjiang
+宝山区@Baoshan Distrikto
+金山区@Jinshan Distrikto
+嘉定区@Distrikto Jiading
+南汇区@Distrikto Nanhui
+青浦区@Distrikto Qingpu
+浦东新区@Pudong Nova Areo
+奉贤区@Fengxiana Distrikto
+闵行区@Distrikto Minhang
+徐汇区@Distrikto Xuhui
+静安区@Distrikto Jing'an
+黄浦区@Distrikto Huangpu
+普陀区@Putuo-Distrikto
+杨浦区@Distrikto Yangpu
+虹口区@Distrikto Hongkou
+闸北区@Distrikto Zhabei
+长宁区@Ŝanĝa Distrikto
+崇明县@Gubernio Chongming
+卢湾区@Distrikto Luwan
+河北省@Hebei-provinco
+石家庄@Shijiazhuang
+唐山@Tangshan
+保定@Baoding
+邯郸@Handan
+邢台@Xingtai
+河北区@Distrikto Hebei
+沧州@Zhangzhou
+秦皇岛@Qinhuangdao
+张家口@Zhangjiakou
+衡水@Hengshui
+廊坊@Langfang
+承德市@Urbo Chengde
+浙江省@Zhejiang
+温州@Wenzhou
+宁波@Ningbo
+杭州@Hangzhou
+台州@Taizhou
+嘉兴@Jiaxing
+金华@Jinhua
+湖州@Huzhou
+绍兴@Shaoxing
+舟山@Zhoushan
+丽水@Lishui
+衢州市@Quzhou-Urbo
+香港特别行政区@Hong Kong SAR
+陕西省@Shaanxi-provinco
+西安@Ŝjiano
+咸阳@Xianyang
+宝鸡@Baoji
+汉中@Hanzhong
+渭南@Weinan
+安康@bona sano
+榆林@Yulin
+商洛@Ŝangluo
+延安@Yan'an
+铜川市@Tongchuan
+湖南省@Hunan-provinco
+长沙@Changsha
+邵阳@Shaoyang
+常德@Changde
+衡阳@Hengyang
+株洲@Zhuzhou
+湘潭@Xiangtan
+永州@Yongzhou
+岳阳@Yueyang
+怀化@Huaihua
+郴州@Chenzhou
+娄底@Fundo
+益阳@Yiyang
+张家界@Zhangjiajie
+湘西州@Xiangxi
+重庆市@Chongqing
+江北区@Distrikto Jiangbei
+渝北区@Distrikto Yubei
+沙坪坝区@Shapingba Distrikto
+九龙坡区@Jiulongpo
+万州区@Wanzhou Distrikto
+永川@Yongchuan
+南岸区@Distrikto de Suda Banko
+酉阳县@Youyang County
+北碚区@Beibei Distrikto
+涪陵区@Plena Distrikto
+秀山县@Xiushan County
+巴南区@Distrikto Banano
+渝中区@Yuzhong
+石柱县@Shizhu
+忠县@Zhong County
+合川@Hechuan
+大渡口区@Distrikto Dadukou
+开县@Distrikto Kai
+长寿区@Changshou Distrikto
+荣昌县@Rongchang
+云阳县@Yunyang County
+梁平县@Liangping County
+潼南县@Tongnan County
+江津@Jiangjin
+彭水县@Gubernio Pengshui
+璧山县@Bishan Distrikto
+綦江县@Qijiang County
+大足县@Dazu County
+黔江区@Qianjiang Distrikto
+巫溪县@Wuxi County
+巫山县@Wushan County
+垫江县@Dianjiang County
+丰都县@Fengdu County
+武隆县@Wulong County
+万盛区@Distrikto Wansheng
+铜梁县@Gubernio Tongliang
+南川@Nanchuan
+奉节县@Distrikto Fengjie
+双桥区@Shuangqiao Distrikto
+城口县@Gubernio Chengkou
+福建省@Fujian-provinco
+漳州@Zhangzhou
+泉州@Quanzhou
+厦门@Xiamen
+福州@Fuzhou
+莆田@Putiano
+宁德@Ningde
+三明@Sanigado
+南平@Nanping
+龙岩市@Longyan Urbo
+天津市@Tianjin
+和平区@Paczono
+北辰区@Distrikto Beichen
+河北区@Distrikto Hebei
+河西区@Distrikto Hexi
+西青区@Distrikto Xiqing
+津南区@Distrikto Jinnan
+东丽区@Dongli Distrikto
+武清区@Distrikto Wuqing
+宝坻区@Baodi
+红桥区@Distrikto Hongqiao
+大港区@Distrikto Dagang
+汉沽区@Hangu
+静海县@Gubernio Jinghai
+宁河县@Ninghe
+塘沽区@Tanggu Distrikto
+蓟县@Ji-gubernio
+南开区@Distrikto Nankai
+河东区@Hedong Distrikto
+云南省@Yunnan-provinco
+昆明@Kunming
+红河州@Gubernio Honghe
+大理州@Dali Gubernio
+文山州@Wenshan
+德宏州@Dehong
+曲靖@Kuri
+昭通@Zhaotong
+楚雄州@Chuxiong
+保山@Baoshan
+玉溪@Yuxi
+丽江地区@Lijiang Prefecture
+临沧地区@Linyi-areo
+思茅地区@Simao Gubernio
+西双版纳州@Xishuangbanna
+怒江州@Nujiang Prefecture
+迪庆州@Fosado
+四川省@Sichuan
+成都@Chengdu
+绵阳@Mianyang
+广元@Guangyuan
+达州@Florido
+南充@Nanchong
+德阳@Deyang
+广安@Guang'an
+阿坝州@Aba
+巴中@Bazhong
+遂宁@Suĉado
+内江@Neijiang
+凉山州@Liangshan
+攀枝花@Panzhihua
+乐山@Leshan
+自贡@Zigong
+泸州@Zhangzhou
+雅安@Ya'an
+宜宾@Yibin
+资阳@Ziyang
+眉山@Meishan
+甘孜州@Ganzi
+广西壮族自治区@Guangxi Zhuang Aŭtonoma Regiono
+贵港@Guigang
+玉林@Yulin
+北海@Norda Maro
+南宁@Nanning
+柳州@Liuzhou
+桂林@Guilin
+梧州@Zhangzhou
+钦州@Qinzhou
+来宾@Gasto
+河池@Hechi
+百色@Baise
+贺州@Hezhou
+崇左@Chongzuo
+防城港市@Fangchenggang Urbo
+安徽省@Anhui Provinco
+芜湖@Wuhu
+合肥@Hefei
+六安@Lu'an
+宿州@Suzhou
+阜阳@Fuyang
+安庆@Anqing
+马鞍山@Ma On Shan
+蚌埠@Bengbu
+淮北@Huaibei
+淮南@Huainan
+宣城@Xuancheng
+黄山@Huangshan
+铜陵@Tongling
+亳州@Bozhou
+池州@Chizhou
+巢湖@Chaohu
+滁州市@Chuzhou
+海南省@Provinco Hainan
+三亚@Sanya
+海口@Haikou
+琼海@Qionghai
+文昌@Wenchang
+东方@Orienta
+昌江县@Changjiang County
+陵水县@Lingshui County
+乐东县@Ledong
+五指山@fingroj
+保亭县@Distrikto Baoting
+澄迈县@Chengmai County
+万宁@Wanning
+儋州@Danzhou
+临高县@Lingao County
+白沙县@Distrikto Baisha
+定安县@Ding'an
+琼中县@Qiongzhong County
+屯昌县@Gubernio Suichang
+江西省@Jiangxi
+南昌@Nanchang
+赣州@Ganzhou
+上饶@Shangrao
+吉安@Ji'an
+九江@Jiujiang
+新余@Xinyu
+抚州@Fuzhou
+宜春@Yichun
+景德镇@Jingdezhen
+萍乡@Pingxiang
+鹰潭市@Yingtan City
+湖北省@Hubei Provinco
+武汉@Wuhan
+宜昌@Yichang
+襄樊@Xiangfan
+荆州@Jingzhou
+恩施州@Enshi
+孝感@Xiaogan
+黄冈@Huanggang
+十堰@Shiyan
+咸宁@Xianning
+黄石@Yellowstone
+仙桃@Xiantao
+随州@Suizhou
+天门@Tianmen
+荆门@Jingmen
+潜江@Qianjiang
+鄂州@Ezhou
+神农架林区@Shennongjia
+山西省@Shanxi-provinco
+太原@Taiyuan
+大同@Datong
+运城@Yuncheng
+长治@Changzhi
+晋城@Jincheng
+忻州@Zhangzhou
+临汾@Linfen
+吕梁@Luliang
+晋中@Jinzhong
+阳泉@Yangquan
+朔州市@Quzhou-Urbo
+辽宁省@Liaoning Provinco
+大连@Dalian
+沈阳@Shenyang
+丹东@Dandong
+辽阳@Liaoyang
+葫芦岛@Huludao
+锦州@Jinzhou
+朝阳@Chaoyang
+营口@Yingkou
+鞍山@Anshan
+抚顺@Fushun
+阜新@Fuxin
+本溪@Benxi
+盘锦@Panjin
+铁岭市@Tieling City
+台湾省@Tajvana Provinco
+台北@Tajpeo
+高雄@Kaohsiung
+台中@Taichung
+新竹@Hsinchu
+基隆@Keelung
+台南@Tainan
+嘉义市@Chiayi City
+黑龙江@Heilongjiang
+齐齐哈尔@Qiqihar
+哈尔滨@Harbin
+大庆@Daqing
+佳木斯@Jiamusi
+双鸭山@Shuangyashan
+牡丹江@Mudanjiang
+鸡西@Jixi
+黑河@Heihe
+绥化@Suihua
+鹤岗@Hegang
+伊春@Yichun
+大兴安岭地区@Daxinganling regiono
+七台河市@Qitaihe
+内蒙古自治区@Interna Mongolio Aŭtonoma Regiono
+赤峰@Chifeng
+包头@Baotou
+通辽@Tongliao
+呼和浩特@Hohhot
+乌海@Wuhai
+鄂尔多斯@Ordos
+呼伦贝尔@Hulunbeier
+兴安盟@Hing'an
+巴彦淖尔盟@Bayannaoer
+乌兰察布盟@Ulanchabu Ligo
+锡林郭勒盟@Xilin Gol Ligo
+阿拉善盟@Alxa Ligo
+澳门特别行政区@Macao Special Administrative Region
+贵州省@Provinco Guizhou
+贵阳@Guiyang
+黔东南州@Qiandongnan
+黔南州@Gannan
+遵义@Zunyi
+黔西南州@Qianxinan
+毕节地区@Bijie Gubernio
+铜仁地区@Tongren Prefecture
+安顺@Anshun
+六盘水市@Liupanshui Urbo
+甘肃省@provinco Gansu
+兰州@Lanzhou
+天水@Tianshui
+庆阳@Qingyang
+武威@Wuwei
+酒泉@Jiuquan
+张掖@Zhangye
+陇南地区@Weinan-areo
+白银@Arĝento
+定西地区@Dingxi Gubernio
+平凉@Pingliang
+嘉峪关@Jiayuguan
+临夏回族自治州@Linxia Hui Autonomous Prefecture
+金昌@Jinchang
+甘南州@Gannan Prefecture
+青海省@Qinghai-provinco
+西宁@Xining
+海西州@Haikio
+海东地区@Haidong Prefecture
+海北州@Haibei
+果洛州@Guoluo
+玉树州@Yushu gubernio
+黄南藏族自治州@Huangnan Tibeta Aŭtonoma Gubernio
+新疆维吾尔自治区@Xinjiang Uygur Autonomous Region
+乌鲁木齐@Urumqi
+伊犁州@Gubernio Yili
+昌吉州@Changji
+石河子@Shihezi
+哈密地区@Hami-areo
+阿克苏地区@Aksu-areo
+巴音郭楞州@Bayinguoleng ŝtato
+喀什地区@Kashgar
+塔城地区@Tacheng-areo
+克拉玛依@Karamay
+和田地区@Hotan-areo
+阿勒泰州@Al Taizhou
+吐鲁番地区@Turpan-areo
+阿拉尔@Alar
+博尔塔拉州@Boertala ŝtato
+五家渠@Wujiaqu
+克孜勒苏州@Kezilesu ŝtato
+图木舒克市@Tumxuk
+西藏区@Tibeto regiono
+拉萨@Lasao
+山南地区@Shannan-areo
+林芝地区@Nyingchi
+日喀则地区@Xigaze
+阿里地区@Ali areon
+昌都地区@Qamdo
+那曲地区@Nagqu-areo
+吉林省@Jilin Provinco
+吉林@Jilin
+长春@Changchun
+白山@Blanka Monto
+白城@Baicheng
+延边州@Yanbian
+松原@Matsubara
+辽源@Liaoyuan
+通化@Tonghua
+四平@Siping
